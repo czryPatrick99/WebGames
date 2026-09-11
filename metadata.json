@@ -1,0 +1,6 @@
+{
+  "name": "NEON ASCENT: 30 Levels of Parkour",
+  "description": "Fast-paced 3D/2.5D cyberpunk parkour platformer across 30 levels with wall-running, slides, grapples, dynamic flow meter, ghost racing, and custom cosmetics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
